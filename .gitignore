@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ai-env/
+
+# Environment Variables
+.env
+
+# SQLite
+*.db
+*.sqlite3
+
+# FAISS / Vector Database
+hr_vector_db/
+*.faiss
+*.pkl
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
